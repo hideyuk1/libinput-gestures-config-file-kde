@@ -2,7 +2,7 @@
 Config file for libinput-gestures
 
 Put this in 
-~/.config/libinput-gestures.conf
+~/.config/
 
 Useful commands: 
 libinput-gestures-setup autostart
