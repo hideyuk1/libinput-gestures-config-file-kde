@@ -2,7 +2,7 @@
 Config file for libinput-gestures
 
 Put this in  
-    ```code ~/.config/```
+    ```~/.config/```
 
 Useful commands:  
 ```
