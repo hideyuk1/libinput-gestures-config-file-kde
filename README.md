@@ -1,11 +1,13 @@
 # libinput-gestures-config-file-kde
 Config file for libinput-gestures
 
-Put this in 
-~/.config/
+Put this in  
+    ```code ~/.config/```
 
-Useful commands: 
+Useful commands:  
+```
 libinput-gestures-setup autostart
 libinput-gestures-setup start
 libinput-gestures-setup stop
 libinput-gestures-setup restart
+```
